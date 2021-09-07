@@ -1,0 +1,36 @@
+1630934443019	geckodriver	INFO	Listening on 127.0.0.1:51710
+1630934446073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofiledsqUVo"
+1630934447049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofiledsqUVo\\search.json.mozlz4", (void 0)))
+1630934451535	Marionette	INFO	Listening on port 63228
+1630934451972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1630934482152	Marionette	INFO	Stopped listening on port 63228
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630934800297	geckodriver	INFO	Listening on 127.0.0.1:54444
+1630934803370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofilembqTcg"
+1630934804026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofilembqTcg\\search.json.mozlz4", (void 0)))
+1630934807707	Marionette	INFO	Listening on port 53739
+1630934808204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1630934910765	Marionette	INFO	Stopped listening on port 53739
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631007995055	geckodriver	INFO	Listening on 127.0.0.1:56945
+1631007998109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofileRFrPYp"
+1631007999200	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofileRFrPYp\\search.json.mozlz4", (void 0)))
+1631008003641	Marionette	INFO	Listening on port 56953
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1631008004024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1631008013501	Marionette	INFO	Stopped listening on port 56953
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
