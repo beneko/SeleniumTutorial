@@ -6,7 +6,7 @@ class RunChromeTests:
 
     def test(self):
 
-        driver_location = "chromedriver location"
+        driver_location = "C:\\Users\\behza\\PycharmProjects\\libs\\chromedriver.exe"
         os.environ["webdriver.chrome.driver"] = driver_location
         # Initiate the driver instance
         driver = webdriver.Chrome(driver_location)
