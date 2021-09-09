@@ -5,7 +5,7 @@ import time
 class RadioButtonsAndCheckboxes:
 
     def __init__(self):
-        base_url = " https://courses.letskodeit.com/practice"
+        base_url = "https://courses.letskodeit.com/practice"
         driver = webdriver.Firefox()
         driver.maximize_window()
         driver.get(base_url)

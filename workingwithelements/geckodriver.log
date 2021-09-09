@@ -88,3 +88,40 @@ JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Succe
 1631110738881	Marionette	INFO	Stopped listening on port 60063
 JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
 [Parent 12808, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1631175896542	geckodriver	INFO	Listening on 127.0.0.1:52864
+1631175899504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofileJ1xl29"
+1631175900673	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofileJ1xl29\\search.json.mozlz4", (void 0)))
+1631175904616	Marionette	INFO	Listening on port 52872
+1631175904884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631177430808	Marionette	INFO	Stopped listening on port 52872
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofileMFDxGy\\search.json.mozlz4", (void 0)))
+1631176102133	Marionette	INFO	Listening on port 52962
+1631176102264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70007, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70007, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70007, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70007, line 488: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631177430009	Marionette	INFO	Stopped listening on port 52962
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilelI4xYd"
+1631177326185	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofilelI4xYd\\search.json.mozlz4", (void 0)))
+1631177331859	Marionette	INFO	Listening on port 51336
+1631177332315	RemoteAgent	WARN	TLS certificate errors will b1631177335384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofileffTfmY"
+1631177336332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\behza\\AppData\\Local\\Temp\\rust_mozprofileffTfmY\\search.json.mozlz4", (void 0)))
+1631177341178	Marionette	INFO	Listening on port 51422
+1631177341473	RemoteAgent	WARN	TLS certificate errors will1631177424619	Marionette	INFO	Stopped listening on port 51336
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+?v=V3.1.70007, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70007, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70007, line 488: unreachable code after return statement
+1631177367323	Marionette	INFO	Stopped listening on port 51422
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
